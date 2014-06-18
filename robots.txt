@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://solutiondrop.github.io/big/sitemap.xml 
+Sitemap: http://big.solutiondrop.com/sitemap.xml 
