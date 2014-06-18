@@ -1,15 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://big.solutiondrop.com/understanding-the-domains/</loc>
+        <lastmod>2014-06-18T00:38:03-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://big.solutiondrop.com/blog/archives/</loc>
-        <lastmod>2014-06-17T23:28:58-05:00</lastmod>
+        <lastmod>2014-06-18T00:38:03-05:00</lastmod>
     </url>
     <url>
         <loc>http://big.solutiondrop.com/</loc>
-        <lastmod>2014-06-17T23:28:58-05:00</lastmod>
+        <lastmod>2014-06-18T00:38:03-05:00</lastmod>
     </url>
     <url>
         <loc>http://big.solutiondrop.com/robots.txt</loc>
-        <lastmod>2014-06-17T23:28:58-05:00</lastmod>
+        <lastmod>2014-06-17T23:49:59-05:00</lastmod>
     </url>
 </urlset>
