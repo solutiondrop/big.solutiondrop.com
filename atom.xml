@@ -4,7 +4,7 @@
   <title><![CDATA[Big Projects]]></title>
   <link href="http://big.solutiondrop.com/atom.xml" rel="self"/>
   <link href="http://big.solutiondrop.com/"/>
-  <updated>2014-06-18T10:33:59-05:00</updated>
+  <updated>2014-06-25T10:30:43-05:00</updated>
   <id>http://big.solutiondrop.com/</id>
   <author>
     <name><![CDATA[Scott]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Website Logos]]></title>
+    <link href="http://big.solutiondrop.com/website-logos/"/>
+    <updated>2014-06-25T08:59:42-05:00</updated>
+    <id>http://big.solutiondrop.com/website-logos</id>
+    <content type="html"><![CDATA[<p>These logos use interchangeable typography to help fit the three separate Big entities.</p>
+
+<h2>Big Works Industries</h2>
+
+<p>This can be modified to also be used for Big Works Inc..</p>
+
+<p><a href="http://big.solutiondrop.com/images/big-2.jpg" target="_blank"><img src="http://big.solutiondrop.com/images/big-2.jpg"></a></p>
+
+<p><a href="http://big.solutiondrop.com/images/containers.jpg" target="_blank"><img src="http://big.solutiondrop.com/images/containers.jpg"></a></p>
+
+<p><a href="http://big.solutiondrop.com/images/containers2.jpg" target="_blank"><img src="http://big.solutiondrop.com/images/containers2.jpg"></a></p>
+
+<p><a href="http://big.solutiondrop.com/images/denim-tags-black.jpg" target="_blank"><img src="http://big.solutiondrop.com/images/denim-tags-black.jpg"></a></p>
+
+<h2>Vapor Mechanics</h2>
+
+<p><a href="http://big.solutiondrop.com/images/big-3-no-draft-type-b.jpg" target="_blank"><img src="http://big.solutiondrop.com/images/big-3-no-draft-type-b.jpg"></a></p>
+
+<p><a href="http://big.solutiondrop.com/images/big-3-no-draft-type-f.jpg" target="_blank"><img src="http://big.solutiondrop.com/images/big-3-no-draft-type-f.jpg"></a></p>
+
+<p><a href="http://big.solutiondrop.com/images/big-3.jpg" target="_blank"><img src="http://big.solutiondrop.com/images/big-3.jpg"></a></p>
+
+<p><a href="http://big.solutiondrop.com/images/big-3d.jpg" target="_blank"><img src="http://big.solutiondrop.com/images/big-3d.jpg"></a></p>
+
+<p><a href="http://big.solutiondrop.com/images/boxes.jpg" target="_blank"><img src="http://big.solutiondrop.com/images/boxes.jpg"></a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Project Start and some links]]></title>
