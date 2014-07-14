@@ -4,7 +4,7 @@
   <title><![CDATA[Big Projects]]></title>
   <link href="http://big.solutiondrop.com/atom.xml" rel="self"/>
   <link href="http://big.solutiondrop.com/"/>
-  <updated>2014-06-25T11:39:45-05:00</updated>
+  <updated>2014-07-14T15:48:09-05:00</updated>
   <id>http://big.solutiondrop.com/</id>
   <author>
     <name><![CDATA[Scott]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Responsive Full-width image example]]></title>
+    <link href="http://big.solutiondrop.com/responsive-full-width-image-example/"/>
+    <updated>2014-07-14T15:45:57-05:00</updated>
+    <id>http://big.solutiondrop.com/responsive-full-width-image-example</id>
+    <content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://player.vimeo.com/video/100746128 "></iframe></div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Website Logos]]></title>
